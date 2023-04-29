@@ -38,4 +38,4 @@
 - Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
 ### 12. Dealer
-- Write a function that sorts a deck of cards.
+- Write a function that sorts a deck of cards..
